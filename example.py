@@ -1,4 +1,4 @@
-__author__ = 'LEONARDO'
+__author__ = 'Galo Castillo'
 
 import pandas as pd
 from pandas import Series, DataFrame
